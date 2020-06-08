@@ -122,9 +122,11 @@ body {
 .add__container {
     margin: 0 auto;
     text-align: center;
+    border-radius: 5px;
 }
 
 .add__type {
+    border-radius: 5px;
     width: 55px;
     border: 1px solid #e7e7e7;
     height: 44px;
